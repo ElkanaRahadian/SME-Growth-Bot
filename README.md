@@ -76,9 +76,9 @@ Response: AI-generated business analysis
 
 ## 🔧 Development
 
-- **Change colors:** Edit `public/home.css` (search `#ff6b6b`)
-- **Change AI behavior:** Edit `server.js` (modify `systemInstruction`)
-- **Add features:** Edit HTML, CSS, or JavaScript files
+- Change colors: Edit `public/home.css` (search `#ff6b6b`)
+- Change AI behavior: Edit `server.js` (modify `systemInstruction`)
+- Add features: Edit HTML, CSS, or JavaScript files
 
 ## ⚠️ Important
 
@@ -100,4 +100,4 @@ Found a bug or have suggestions? Open an [Issue](https://github.com/ElkanaRahadi
 
 [GitHub](https://github.com/ElkanaRahadian/SME-Growth-Bot) • [Issues](https://github.com/ElkanaRahadian/SME-Growth-Bot/issues)
 
-**Version:** 2.0.0 | **Status:** Production Ready ✅
+**Version:** 1.0.0 | **Status:** Production Ready ✅
