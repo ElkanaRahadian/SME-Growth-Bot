@@ -76,14 +76,14 @@ Response: AI-generated business analysis
 
 ## 🔧 Development
 
-**Change colors:** Edit `public/home.css` (search `#ff6b6b`)
-**Change AI behavior:** Edit `server.js` (modify `systemInstruction`)
-**Add features:** Edit HTML, CSS, or JavaScript files
+- **Change colors:** Edit `public/home.css` (search `#ff6b6b`)
+- **Change AI behavior:** Edit `server.js` (modify `systemInstruction`)
+- **Add features:** Edit HTML, CSS, or JavaScript files
 
 ## ⚠️ Important
 
-- **Never commit `.env`** - Keep API keys secret
-- API key goes in `.env` (use `.env.example` as template)
+- Never commit `.env`
+- API key goes in `.env`
 - For production: Set `NODE_ENV=production`
 
 ## 📄 License
@@ -96,7 +96,7 @@ Found a bug or have suggestions? Open an [Issue](https://github.com/ElkanaRahadi
 
 ---
 
-**Made with ❤️ for entrepreneurs**
+**Made with ❤️ for Developers and Entrepreneurs**
 
 [GitHub](https://github.com/ElkanaRahadian/SME-Growth-Bot) • [Issues](https://github.com/ElkanaRahadian/SME-Growth-Bot/issues)
 
