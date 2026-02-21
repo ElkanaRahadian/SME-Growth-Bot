@@ -2,9 +2,20 @@
 
 AI-powered business advisor for entrepreneurs. Get instant analysis on business feasibility, startup costs, revenue projections, and risk assessment.
 
-<div align="center">
-  <img width="1200" height="600" alt="SME Growth Bot Demo" src="[INSERT_YOUR_SCREENSHOT_URL_HERE]" />
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📊 Home Screen</h3>
+      <img alt="Home Page" src="https://github.com/ElkanaRahadian/SME-Growth-Bot/raw/main/assets/SME-Growth-Bot-1.png" />
+      <p>Quick action cards and category browsing for instant access to business analysis tools.</p>
+    </td>
+    <td width="50%">
+      <h3>💬 Chat Interface</h3>
+      <img alt="Chat Interface" src="https://github.com/ElkanaRahadian/SME-Growth-Bot/raw/main/assets/SME-Growth-Bot-2.png" />
+      <p>Real-time AI conversations with Gemini for personalized business advice.</p>
+    </td>
+  </tr>
+</table>
 
 ## ✨ Features
 
@@ -58,6 +69,7 @@ sme-growth-bot/
 ## 💻 API
 
 **POST /api/chat**
+
 ```json
 {
   "message": "Help me check the feasibility of a coffee shop",
