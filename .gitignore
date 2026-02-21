@@ -1,0 +1,26 @@
+# Environment variables (NEVER commit this!)
+.env
+.env.local
+.env.*.local
+
+# Node modules (huge, regenerate with npm install)
+node_modules/
+package-lock.json
+yarn.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+.cache/
