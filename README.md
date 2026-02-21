@@ -101,8 +101,6 @@ Found a bug or have suggestions? Open an [Issue](https://github.com/ElkanaRahadi
 
 ---
 
-**Made with ❤️ for Developers and Entrepreneurs**
-
 [GitHub](https://github.com/ElkanaRahadian/SME-Growth-Bot) • [Issues](https://github.com/ElkanaRahadian/SME-Growth-Bot/issues)
 
 **Version:** 1.0.0 | **Status:** Production Ready ✅
