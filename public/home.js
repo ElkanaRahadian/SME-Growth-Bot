@@ -1,4 +1,4 @@
-/* Navigation Function */
+/* Navigation Functions */
 function navigateToHome() {
   const homeScreen = document.getElementById("screen-home");
   const chatScreen = document.getElementById("screen-chat");
